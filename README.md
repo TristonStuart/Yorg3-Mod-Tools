@@ -6,7 +6,7 @@ I want people to add their own tools and examples here
 <br>
 If you want to add something here please message me on discord (tdstuart#7920) or make a pull request!
 
-## Some Usefull links
+## Some Useful links
 [Yorg3 Modding Docs](https://github.com/tobspr/yorg.io-3-modding-docs)
 <br>
 [Yorg3 Docs](https://docs.yorg3.io/)
