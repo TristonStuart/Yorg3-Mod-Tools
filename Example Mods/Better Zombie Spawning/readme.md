@@ -1,0 +1,1 @@
+Note : This is only usefull when having the no fog mod and bigger maps
