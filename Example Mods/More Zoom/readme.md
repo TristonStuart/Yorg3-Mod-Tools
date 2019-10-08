@@ -1,0 +1,1 @@
+This is not needed for normal size maps, but is great for bigger maps!
